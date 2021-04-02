@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @iiProCraft
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+> iiProCraft
+Software engineer.
 
-<!---
-iiProCraft/iiProCraft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> Who am i?
+i am just a developer like every developer, i hope you enjoy in my github profile ;)
